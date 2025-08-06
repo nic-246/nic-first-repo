@@ -1,2 +1,3 @@
 # nic-first-repo
 This is my first git repo
+Author - Nicola Rouse
